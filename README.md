@@ -1,4 +1,5 @@
-
+# <p align="center"><a href="https://github.com/SJMxADITI/ForceSub_Bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=Sjmxaditi&show_icons=true&theme=dracula&hide_border=true&repo=Forcesub_Bot"></a></p>
+<p align="center">
 
 ## Deploy
 
