@@ -4,7 +4,7 @@
 ## Deploy
 
 ### Deploy To Heroku Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://devilsheavenmf.github.io/Redirector/)
+[![Deploy?templatehttps://github.com/thilak200318/ForceSub_Bot/edit/master/README.md=](https://www.herokucdn.com/deploy/button.svg)](https://devilsheavenmf.github.io/Redirector/)
 
 ### Deploy in vps
 - Clone this repo
